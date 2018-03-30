@@ -1,0 +1,37 @@
+{
+    "code": 1,
+    "categoryNav": [
+        {
+            "title": "家乡味道",
+            "path": "/index/category/SichuanLiterature"
+        },
+        {
+            "title": "进口食品",
+            "path": "/index/category/importedmainstuff"
+        },
+        {
+            "title": "牛奶乳品",
+            "path": "/index/category/DairyProducts"
+        },
+        {
+            "title": "休闲零食",
+            "path": "/index/category/snacks"
+        },
+        {
+            "title": "生鲜果蔬",
+            "path": "/index/category/FreshFruits"
+        },
+        {
+            "title": "米面粮油",
+            "path": "/index/category/RiceNoodles"
+        },
+        {
+            "title": "调味调料",
+            "path": "/index/category/seasoning"
+        },
+        {
+            "title": "酒水饮料",
+            "path": "/index/category/Bverages"
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+export { default, SwiperCommon } from './swiper.common';

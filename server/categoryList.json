@@ -1,0 +1,151 @@
+{
+    "code": 1,
+    "categoryList": {
+        "SichuanLiterature": [
+            {
+                "id": 1,
+                "title": "环境",
+                "src": "/src/static/img/main1.png"
+            },
+            {
+                "id": 2,
+                "title": "焊接钢管",
+                "src": "/src/static/img/main1.png"
+            },
+            {
+                "id": 3,
+                "title": "的方法",
+                "src": "/src/static/img/main3.png"
+            },
+            {
+                "id": 4,
+                "title": "胡歌封帝",
+                "src": "/src/static/img/main4.png"
+            },
+            {
+                "id": 5,
+                "title": "宏观环境",
+                "src": "/src/static/img/main5.png"
+            },
+            {
+                "id": 6,
+                "title": "更待何时",
+                "src": "/src/static/img/main5.png"
+            }
+        ],
+        "importedmainstuff": [
+            {
+                "id": 1,
+                "title": "更合适的",
+                "src": "/src/static/img/main1.png"
+            },
+            {
+                "id": 2,
+                "title": "时刻",
+                "src": "/src/static/img/main4.png"
+            },
+            {
+                "id": 3,
+                "title": "过后",
+                "src": "/src/static/img/main3.png"
+            }
+        ],
+        "DairyProducts": [
+            {
+                "id": 1,
+                "title": "好几个服",
+                "src": "/src/static/img/main1.png"
+            },
+            {
+                "id": 2,
+                "title": "框架规范",
+                "src": "/src/static/img/main1.png"
+            },
+            {
+                "id": 3,
+                "title": "接口规范",
+                "src": "/src/static/img/main5.png"
+            }
+        ],
+        "snacks": [
+            {
+                "id": 1,
+                "title": "风格化",
+                "src": "/src/static/img/main4.png"
+            },
+            {
+                "id": 2,
+                "title": "是的风格",
+                "src": "/src/static/img/main3.png"
+            },
+            {
+                "id": 3,
+                "title": "更换即可",
+                "src": "/src/static/img/main1.png"
+            }
+        ],
+        "FreshFruits": [
+            {
+                "id": 1,
+                "title": "花卉借记",
+                "src": "/src/static/img/main1.png"
+            },
+            {
+                "id": 2,
+                "title": "框架规范",
+                "src": "/src/static/img/main5.png"
+            }
+        ],
+        "RiceNoodles": [
+            {
+                "id": 1,
+                "title": "对方过后",
+                "src": "/src/static/img/main4.png"
+            },
+            {
+                "id": 2,
+                "title": "法国红酒",
+                "src": "/src/static/img/main3.png"
+            },
+            {
+                "id": 3,
+                "title": "空间",
+                "src": "/src/static/img/main1.png"
+            }
+        ],
+        "seasoning": [
+            {
+                "id": 1,
+                "title": "对方过后",
+                "src": "/src/static/img/main4.png"
+            },
+            {
+                "id": 2,
+                "title": "法国红酒",
+                "src": "/src/static/img/main3.png"
+            },
+            {
+                "id": 3,
+                "title": "看韩剧",
+                "src": "/src/static/img/main1.png"
+            }
+        ],
+        "Bverages": [
+            {
+                "id": 1,
+                "title": "对方过后",
+                "src": "/src/static/img/main4.png"
+            },
+            {
+                "id": 2,
+                "title": "法国红酒",
+                "src": "/src/static/img/main3.png"
+            },
+            {
+                "id": 3,
+                "title": "空间看剧",
+                "src": "/src/static/img/main1.png"
+            }
+        ]
+    }
+}
